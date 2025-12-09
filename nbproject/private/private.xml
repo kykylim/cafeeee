@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/model/Customer.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/model/Order.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/model/OrderItem.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/util/DbUtil.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/dao/CustomerDao.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/dao/OrderDao.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/dao/OrderItemDao.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/service/OrderService.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/dao/MenuItemDao.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/ui/MainFrame.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/ui/customers/CustomPanel.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/ui/menu/MenuPanel.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/ui/orders/OrderPanel.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/model/MenuItem.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/test/TestConnection.java</file>
+            <file>file:/C:/Users/Acer/Documents/NetBeansProjects/DBMS(cafesana)/src/catcafe/assets/images/chocoCake.jpg</file>
+        </group>
+    </open-files>
+</project-private>
